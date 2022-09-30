@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\C# Bootcamp\Pig Latin v2\Pig Latin v2\obj\Debug\net6.0\Pig Latin v2.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Pig Latin v2\Pig Latin v2\obj\Debug\net6.0\Pig Latin v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\C# Bootcamp\Pig Latin v2\Pig Latin v2\obj\Debug\net6.0\Pig Latin v2.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Pig Latin v2\Pig Latin v2\obj\Debug\net6.0\Pig Latin v2.AssemblyInfo.cs
+C:\Users\Owner\Desktop\C# Bootcamp\Pig Latin v2\Pig Latin v2\obj\Debug\net6.0\Pig Latin v2.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Pig Latin v2\Pig Latin v2\bin\Debug\net6.0\Pig Latin v2.exe
+C:\Users\Owner\Desktop\C# Bootcamp\Pig Latin v2\Pig Latin v2\bin\Debug\net6.0\Pig Latin v2.deps.json
+C:\Users\Owner\Desktop\C# Bootcamp\Pig Latin v2\Pig Latin v2\bin\Debug\net6.0\Pig Latin v2.runtimeconfig.json
+C:\Users\Owner\Desktop\C# Bootcamp\Pig Latin v2\Pig Latin v2\bin\Debug\net6.0\Pig Latin v2.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Pig Latin v2\Pig Latin v2\bin\Debug\net6.0\Pig Latin v2.pdb
+C:\Users\Owner\Desktop\C# Bootcamp\Pig Latin v2\Pig Latin v2\obj\Debug\net6.0\Pig Latin v2.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Pig Latin v2\Pig Latin v2\obj\Debug\net6.0\refint\Pig Latin v2.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Pig Latin v2\Pig Latin v2\obj\Debug\net6.0\Pig Latin v2.pdb
+C:\Users\Owner\Desktop\C# Bootcamp\Pig Latin v2\Pig Latin v2\obj\Debug\net6.0\Pig Latin v2.genruntimeconfig.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Pig Latin v2\Pig Latin v2\obj\Debug\net6.0\ref\Pig Latin v2.dll
